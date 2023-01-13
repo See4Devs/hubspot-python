@@ -1,4 +1,4 @@
-#Python code to create, and get Hubspot contacts.
+# Python code to create, and get Hubspot contacts.
 Replace **Your_Token** with the Token that you can get from your Hubspot Application.
 
 Make sure you have Installed the following libraries
