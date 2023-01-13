@@ -18,5 +18,5 @@ python3 create_hubspot_contact.py
 You can run the Flask app with the following command
 
 ```
-falsk run
+flask run
 ```
